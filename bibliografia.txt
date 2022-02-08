@@ -1,1 +1,3 @@
 . Chacon, S. and ...
+. Scott Chacon
+. Ryan Hodson
